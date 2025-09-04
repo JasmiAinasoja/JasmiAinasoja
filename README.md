@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm ICT student at LAB University of Applied Sciences.
+I am ICT student at LAB University of Applied Sciences.
 <!--
 **JasmiAinasoja/JasmiAinasoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
